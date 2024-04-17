@@ -1,0 +1,30 @@
+n = 5
+Runtime without privacy: 1.5500118024647236e-06 seconds, Accuracy: 0.0
+Runtime with Paillier: 13.03807060001418 seconds, Accuracy: 7.275957614183426e-12
+Runtime with Shamir: 2.509998739697039e-05 seconds, Accuracy: 0.0
+Runtime with Differential Privacy: 3.779999678954482e-05 seconds, Accuracy: 30762.489820722603
+-----------------------
+n = 10
+Runtime without privacy: 1.4500110410153866e-06 seconds, Accuracy: 0.0
+Runtime with Paillier: 6.028941850003321 seconds, Accuracy: 0.0
+Runtime with Shamir: 5.299999611452222e-05 seconds, Accuracy: 0.0
+Runtime with Differential Privacy: 2.2599997464567423e-05 seconds, Accuracy: 22656.788473681085
+-----------------------
+n = 20
+Runtime without privacy: 1.300009898841381e-06 seconds, Accuracy: 0.0
+Runtime with Paillier: 7.380997650005156 seconds, Accuracy: 0.0
+Runtime with Shamir: 0.0001734999823383987 seconds, Accuracy: 0.0
+Runtime with Differential Privacy: 2.4399982066825032e-05 seconds, Accuracy: 3109.715651151375
+-----------------------
+n = 50
+Runtime without privacy: 2.149987267330289e-06 seconds, Accuracy: 0.0
+Runtime with Paillier: 25.949003299989272 seconds, Accuracy: 7.275957614183426e-12
+Runtime with Shamir: 0.001234999974258244 seconds, Accuracy: 1.050726542438496e+22
+Runtime with Differential Privacy: 3.81499994546175e-05 seconds, Accuracy: 8885.984740570682
+-----------------------
+n = 100
+Runtime without privacy: 5.250010872259736e-06 seconds, Accuracy: 0.0
+Runtime with Paillier: 42.521024449990364 seconds, Accuracy: 0.0
+Runtime with Shamir: 0.004049749986734241 seconds, Accuracy: 1.6930458628825912e+75
+Runtime with Differential Privacy: 2.9649992939084768e-05 seconds, Accuracy: 639.3097631764613
+-----------------------
